@@ -30,11 +30,7 @@ Radius: The distance allowed between two users to connect their devices, depende
 Chat: The string of messages sent by users into the application
 User: An individual connected to the chat
 
-
-
-
 ## 1.5 References
-
 BLE
 https://en.wikipedia.org/wiki/Bluetooth_Low_Energy
 Bluetooth Blue Mesh Networking (in slack group)
@@ -110,6 +106,32 @@ Shout! will be a mobile application of futuristic capabilities, one of which inc
 ## 3.5 Data Storage
 Due to the technical architecture of Shout! being based on BLE, messages on iOS will be stored on the core data and on Android in the Nexus Data eliminating our requirement for databases and ensuring data persistence.	
 
+# 4. Appendixes 
+Index 
+
+# 5. Versions
+Version 0.1 5/22/2018
+Document outline created 
+
+# 6. Authored By: 
+Adam Benwood (Product Perspective)
+Alex Keats (Overview)
+Andrew Badali (Introduction)
+Benjamin Segall (Specific Requirements)
+Christian Schaefer (Introduction and purpose)
+Delina Ghebrekristos (acronyms and Abbreviations)  
+Emily Hryb (Added to Definitions)
+Harry Sivashankaran (Definitions References)
+Jared Robinson (Overview)	
+Jessica Ngo (User characteristics, constraints)
+Malin Pho (Product function, constraints)
+Michelle Loo (GUI)
+Navreet Atwal (GUI)					
+Pranav Patel (Performance requirement, Security, Portability)
+Rumsha Rafi (GUI)
+Samani Puri (Product function)
+Tiffany Chan (Assumptions and Dependencies)
+Zakaria Hassen ( Scope & Definitions)
 
 
 
