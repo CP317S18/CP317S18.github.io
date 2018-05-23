@@ -65,21 +65,21 @@ It is assumed that all of the users devices are compatible with Bluetooth Low En
 The application will only function within the limitations of the device’s own capabilities. It is assumed that all users using _Shout!_ need to be within at least 200 feet of at least one other person in order to engage in conversation.
 
 References used:
-- https://www.bluetooth.com/bluetooth-technology/topology-options/le-mesh/mesh-faq
-- https://www.iphonefaq.org/archives/973945
-- https://developer.android.com/guide/topics/connectivity/bluetooth-le
-- https://www.pcworld.com/article/208778/Wi_Fi_Direct_vs_Bluetooth_4_0_A_Battle_for_Supremacy.html
+- [Bluetooth Special Interest Group](https://www.bluetooth.com/bluetooth-technology/topology-options/le-mesh/mesh-faq)
+- [iPhone Faq](https://www.iphonefaq.org/archives/973945)
+- [Android Developer](https://developer.android.com/guide/topics/connectivity/bluetooth-le)
+- [PC World](https://www.pcworld.com/article/208778/Wi_Fi_Direct_vs_Bluetooth_4_0_A_Battle_for_Supremacy.html)
 
 						
 # 3. Technical Requirements (See 5.3.1 through 5.3.8 for explanations of possible specific requirements. See also Annex A for several different ways of organizing this section of the SRS.)
 
 ## 3.1 External Interfaces
 
-Bluetooth mesh protocol
-Send Message Packet
-Author key
-Message
-Timestamp
+- Bluetooth mesh protocol
+- Send Message Packet
+- Author key
+- Message
+- Timestamp
 
 
 
