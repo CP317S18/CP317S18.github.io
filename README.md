@@ -108,8 +108,7 @@ Due to the technical architecture of _Shout!_ being based on BLE, messages on iO
 Index 
 
 # 5. Versions
-Version 0.1 5/22/2018
-Document outline created 
+- Version 0.1 5/22/2018 `Document outline created` 
 
 # 6. Authored By: 
 - Adam Benwood (Product Perspective)
