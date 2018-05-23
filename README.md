@@ -71,10 +71,10 @@ References used:
 - [PC World](https://www.pcworld.com/article/208778/Wi_Fi_Direct_vs_Bluetooth_4_0_A_Battle_for_Supremacy.html)
 
 						
-# 3. Technical Requirements (See 5.3.1 through 5.3.8 for explanations of possible specific requirements. See also Annex A for several different ways of organizing this section of the SRS.)
+# 3. Technical Requirements 
+(See 5.3.1 through 5.3.8 for explanations of possible specific requirements. See also Annex A for several different ways of organizing this section of the SRS.)
 
 ## 3.1 External Interfaces
-
 - Bluetooth mesh protocol
 - Send Message Packet
 - Author key
