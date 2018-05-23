@@ -31,10 +31,8 @@ Chat: The string of messages sent by users into the application
 User: An individual connected to the chat
 
 ## 1.5 References
-BLE
-https://en.wikipedia.org/wiki/Bluetooth_Low_Energy
-Bluetooth Blue Mesh Networking (in slack group)
-https://www.bluetooth.com/bluetooth-technology/topology-options/le-mesh/mesh-tech
+[BLE](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy)
+[Bluetooth Blue Mesh Networking](https://www.bluetooth.com/bluetooth-technology/topology-options/le-mesh/mesh-tech)
 
 This SRS document is based on IEEE Std 830-1998.
 				
