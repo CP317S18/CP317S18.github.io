@@ -1,7 +1,11 @@
-## Introduction
+# 1.Introduction
+## 1.1Project Summary
+Shout!  is a bluetooth low energy (BLE) mesh-based messaging application that is supported on Android and iOS. It allows users to talk to other users within a single messaging room as long as they are all connected to the same bluetooth mesh.
 
+## 1.2Purpose
+This document will cover all of the requirements needed for Shout! and will describe all of its amazing features and how they work.
 
-### Purpose
+The intended audience for this document will be the client (David Brown) and the project team. They will use this document to be reminded of the requirements of the project. The document will also be used as the basis for the project.
 
 ### Scope
 You can use the [editor on GitHub](https://github.com/CP317S18/CP317S18.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
