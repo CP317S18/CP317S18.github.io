@@ -3,7 +3,7 @@
 _Shout!_  is a bluetooth low energy (BLE) mesh-based messaging application that is supported on Android and iOS. It allows users to talk to other users within a single messaging room as long as they are all connected to the same bluetooth mesh.
 
 ## 1.2 Purpose
-This document will cover all of the requirements needed for _Shout!_ and will describe all of its amazing features and how they work.
+This document will cover all of the requirements needed for _Shout!_ and will describe all of its features and how they work.
 
 The intended audience for this document will be the client (David Brown) and the project team. They will use this document to be reminded of the requirements of the project. The document will also be used as the basis for the project.
 
