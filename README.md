@@ -1,3 +1,5 @@
+<h1>Shout!</h1>
+
 - [1. Introduction](#1-introduction)
   * [1.1 Project Summary](#11-project-summary)
   * [1.2 Purpose](#12-purpose)
@@ -21,7 +23,7 @@
   * [3.5 Data Storage](#35-data-storage)
 - [4. Appendixes](#4-appendixes)
 - [5. Versions](#5-versions)
-- [6. Authored By:](#6-authored-by)
+- [6. Authors](#6-authored-by)
 
 # 1. Introduction
 ## 1.1 Project Summary
@@ -139,7 +141,7 @@ Index
 # 5. Versions
 - Version 0.1 5/22/2018 `Document outline created` 
 
-# 6. Authored By: 
+# 6. Authored by: 
 - Adam Benwood (Product Perspective)
 - Alex Keats (Overview)
 - Andrew Badali (Introduction)
