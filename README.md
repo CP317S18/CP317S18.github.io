@@ -42,6 +42,12 @@ This SRS document is based on IEEE Std 830-1998.
 ## 2.1 Product perspective 
 _Shout!_ Is based on BLE mesh architecture. Major components include the networking protocol utilizing Core Bluetooth module and Androids Bluetooth API. IOS and Android frontend apps enabling chat serves as the other component. 
 
+## 2.1.2 Sample GUI - iOS
+
+<img width="300" height="533" src="https://github.com/CP317S18/cp317s18.github.io/blob/master/homepage.png" align="left" hspace="70" />
+<img width="300" height="533" src="https://github.com/CP317S18/cp317s18.github.io/blob/master/chat ui.png" hspace="40" />
+
+
 ## 2.2 Product functions 
 Users of _Shout!_ have the ability to chat with others supported through the bluetooth mesh implemented in the application. Users are limited to sending and receiving messages within the range of the mesh to others. If the user disconnects from their mesh, they can reconnect and receive the messages they missed as long they connect within a certain period of time. When users launch the app, they create a temporary username that will be used to communicate with other people. Users can view the number of people in the chat and the distance of users. 
 
