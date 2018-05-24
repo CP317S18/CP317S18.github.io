@@ -69,7 +69,7 @@ _Shout!_ Is based on BLE mesh architecture. Major components include the network
 
 ### 2.1.2 Sample GUI - iOS
 
-<img width="300" height="533" src="https://github.com/CP317S18/cp317s18.github.io/blob/master/homepage.png" align="left" hspace="70" />
+<img width="300" height="533" src="cp317s18.github.io/homepage.png" align="left" hspace="70" />
 <img width="300" height="533" src="https://github.com/CP317S18/cp317s18.github.io/blob/master/chat ui.png" hspace="40" />
 
 
