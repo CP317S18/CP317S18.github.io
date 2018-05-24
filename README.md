@@ -1,4 +1,3 @@
-<h1>Shout!</h1>
 
 - [1. Introduction](#1-introduction)
   * [1.1 Project Summary](#11-project-summary)
