@@ -1,3 +1,28 @@
+- [1. Introduction](#1-introduction)
+  * [1.1 Project Summary](#11-project-summary)
+  * [1.2 Purpose](#12-purpose)
+  * [1.3 Scope](#13-scope)
+  * [1.4 Definitions, Acronyms and Abbreviations](#14-definitions-acronyms-and-abbreviations)
+    + [1.4.1 Acronyms and Abbreviations](#141-acronyms-and-abbreviations)
+    + [1.4.2 Definitions](#142-definitions)
+  * [1.5 References](#15-references)
+- [2. Overall description](#2-overall-description)
+  * [2.1 Product perspective](#21-product-perspective)
+    + [2.1.2 Sample GUI - iOS](#212-sample-gui---ios)
+  * [2.2 Product functions](#22-product-functions)
+  * [2.3 User characteristics](#23-user-characteristics)
+  * [2.4 Constraints](#24-constraints)
+  * [2.5 Assumptions and dependencies](#25-assumptions-and-dependencies)
+- [3. Technical Requirements](#3-technical-requirements)
+  * [3.1 External Interfaces](#31-external-interfaces)
+  * [3.2 Performance requirements](#32-performance-requirements)
+  * [3.3 Security](#33-security)
+  * [3.4 Portability](#34-portability)
+  * [3.5 Data Storage](#35-data-storage)
+- [4. Appendixes](#4-appendixes)
+- [5. Versions](#5-versions)
+- [6. Authored By:](#6-authored-by)
+
 # 1. Introduction
 ## 1.1 Project Summary
 _Shout!_  is a bluetooth low energy (BLE) mesh-based messaging application that is supported on Android and iOS. It allows users to talk to other users within a single messaging room as long as they are all connected to the same bluetooth mesh.
@@ -42,7 +67,7 @@ This SRS document is based on IEEE Std 830-1998.
 ## 2.1 Product perspective 
 _Shout!_ Is based on BLE mesh architecture. Major components include the networking protocol utilizing Core Bluetooth module and Androids Bluetooth API. IOS and Android frontend apps enabling chat serves as the other component. 
 
-## 2.1.2 Sample GUI - iOS
+### 2.1.2 Sample GUI - iOS
 
 <img width="300" height="533" src="https://github.com/CP317S18/cp317s18.github.io/blob/master/homepage.png" align="left" hspace="70" />
 <img width="300" height="533" src="https://github.com/CP317S18/cp317s18.github.io/blob/master/chat ui.png" hspace="40" />
