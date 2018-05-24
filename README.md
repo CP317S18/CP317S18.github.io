@@ -104,7 +104,6 @@ References used:
 
 						
 # 3. Technical Requirements 
-(See 5.3.1 through 5.3.8 for explanations of possible specific requirements. See also Annex A for several different ways of organizing this section of the SRS.)
 
 ## 3.1 External Interfaces
 - Bluetooth mesh protocol
@@ -112,11 +111,6 @@ References used:
 - Author key
 - Message
 - Timestamp
-
-
-
-
-
 
 ## 3.2 Performance requirements
 The app will be able to support approximately 6000 users in one chat room and will handle text based data. 
