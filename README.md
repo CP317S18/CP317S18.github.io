@@ -132,22 +132,22 @@ Due to the technical architecture of _Shout!_ being based on BLE, messages on iO
 - Version 0.1 5/22/2018 `Document outline created` 
 
 # 5. Authored by: 
-- Adam Benwood (Product Perspective)
-- Alex Keats (Overview)
-- Andrew Badali (Introduction)
-- Benjamin Segall (Specific Requirements)
-- Christian Schaefer (Introduction and Purpose)
-- Delina Ghebrekristos (Acronyms and Abbreviations)  
-- Emily Hryb (Added to Definitions)
-- Harry Sivashankaran (Definitions and References)
-- Jared Robinson (Overview)	
-- Jessica Ngo (User characteristics and Constraints)
-- Malin Pho (Product Function and Constraints)
-- Michelle Loo (GUI)
-- Navreet Atwal (GUI)					
-- Pranav Patel (Performance requirement, Security and Portability)
-- Rumsha Rafi (GUI)
-- Samani Puri (Product Function)
-- Tiffany Chan (Assumptions and Dependencies)
-- Zakaria Hassen (Scope & Definitions)
+***- Alex Keats*** 
+- Adam Benwood 
+- Andrew Badali 
+- Benjamin Segall 
+- Christian Schaefer
+- Delina Ghebrekristos
+- Emily Hryb 
+- Harry Sivashankaran 
+- Jared Robinson 	
+- Jessica Ngo
+- Malin Pho 
+- Michelle Loo
+- Navreet Atwal 					
+- Pranav Patel 
+- Rumsha Rafi 
+- Samani Puri 
+- Tiffany Chan 
+- Zakaria Hassen
 
