@@ -15,8 +15,8 @@ This document outlines the overall functionality, constraints and specifications
 ### 1.4.1 Acronyms and Abbreviations
 - API: Application Program Interface - External software
 - GUI: Graphical User Interface
-- SRS: Software Requirement Specification.
-- BLE : Bluetooth Low Energy. Wireless personal area network technology intended to reduce power consumption while maintaining a communication range
+- SRS: Software Requirement Specification
+- BLE : Bluetooth Low Energy. Wireless personal area network technology intended to reduce power consumption while maintaining a communication range.
 
 ### 1.4.2 Definitions
 - Blue Mesh Networking: Mesh is a new network topology option available for Bluetooth®Low Energy (LE)
@@ -45,10 +45,9 @@ _Shout!_ Is based on BLE mesh architecture. Major components include the network
 ## 2.2 Product functions 
 Users of _Shout!_ have the ability to chat with others supported through the bluetooth mesh implemented in the application. Users are limited to sending and receiving messages within the range of the mesh to others. If the user disconnects from their mesh, they can reconnect and receive the messages they missed as long they connect within a certain period of time. When users launch the app, they create a temporary username that will be used to communicate with other people. Users can view the number of people in the chat and the distance of users. 
 
-![Diagram](https://github.com/CP317S18/cp317s18.github.io/blob/master/diagram.png)
+<img align="right" width="250" height="250" src="https://github.com/CP317S18/cp317s18.github.io/blob/master/diagram.png">
 
 ## 2.3 User characteristics
-
 
 The intended audience of _Shout!_ are users that seek to network with other users within their environment. _Shout!_ is accessible on iOS and Android. Users must have the technical expertise to use the basic functions of the devices on which _Shout!_ is installed. Experience using a messaging application will assist in the amount of time required to become familiar with the application. The user interface is intended to be intuitive such that there will be a short learning curve.
 
@@ -87,16 +86,15 @@ References used:
 
 
 ## 3.2 Performance requirements
-The app will be able to support approximately 6000 users in one chat room
-The app will handle text based data 
-Most of the communication will be done within few seconds of a message being sent from a user, with larger chat rooms the time for each individual users to receive the message will increase
+The app will be able to support approximately 6000 users in one chat room and will handle text based data. 
+Most of the communication will be done within few seconds of a message being sent from a user but, with larger chat rooms, the time for each individual users to receive the message will increase.
 
 ## 3.3 Security
 _Shout!_ will have many security features:
-Keep track of logs for user message history of current session
-Enabling communication between distant users if closer links (nodes) create pathway
-Check data integrity for communication
-Communications securities to prevent users from hacking into other users devices
+- Keep track of logs for user message history of current session
+- Enabling communication between distant users if closer links (nodes) create pathway
+- Check data integrity for communication
+- Communications securities to prevent users from hacking into other users devices
 
 ## 3.4 Portability
 _Shout!_'s  capabilities include cross platform communication. The platforms which _Shout!_  will operate on include Android and IOS, meaning _Shout!_  will be on the Apple App Store and Google Play Store. There will not be a personal computer (PC here onwards) version of _Shout!_  because creating a mobile application will take majority of the resources and so at the moment a PC version is infeasible.
@@ -115,18 +113,18 @@ Index
 - Alex Keats (Overview)
 - Andrew Badali (Introduction)
 - Benjamin Segall (Specific Requirements)
-- Christian Schaefer (Introduction and purpose)
-- Delina Ghebrekristos (acronyms and Abbreviations)  
+- Christian Schaefer (Introduction and Purpose)
+- Delina Ghebrekristos (Acronyms and Abbreviations)  
 - Emily Hryb (Added to Definitions)
-- Harry Sivashankaran (Definitions References)
+- Harry Sivashankaran (Definitions and References)
 - Jared Robinson (Overview)	
-- Jessica Ngo (User characteristics, constraints)
-- Malin Pho (Product function, constraints)
+- Jessica Ngo (User characteristics and Constraints)
+- Malin Pho (Product Function and Constraints)
 - Michelle Loo (GUI)
 - Navreet Atwal (GUI)					
-- Pranav Patel (Performance requirement, Security, Portability)
+- Pranav Patel (Performance requirement, Security and Portability)
 - Rumsha Rafi (GUI)
-- Samani Puri (Product function)
+- Samani Puri (Product Function)
 - Tiffany Chan (Assumptions and Dependencies)
-- Zakaria Hassen ( Scope & Definitions)
+- Zakaria Hassen (Scope & Definitions)
 
