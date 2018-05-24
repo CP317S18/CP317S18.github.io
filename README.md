@@ -21,9 +21,8 @@
   * [3.3 Security](#33-security)
   * [3.4 Portability](#34-portability)
   * [3.5 Data Storage](#35-data-storage)
-- [4. Appendixes](#4-appendixes)
-- [5. Versions](#5-versions)
-- [6. Authors](#6-authored-by)
+- [4. Versions](#5-versions)
+- [5. Authors](#6-authored-by)
 
 # 1. Introduction
 ## 1.1 Project Summary
@@ -129,13 +128,11 @@ _Shout!_'s  capabilities include cross platform communication. The platforms whi
 ## 3.5 Data Storage
 Due to the technical architecture of _Shout!_ being based on BLE, messages on iOS will be stored using the `Core Data Module` and on Android in the `Nexus Data Module` eliminating our requirement for databases and ensuring data persistence.	
 
-# 4. Appendixes 
-Index 
 
-# 5. Versions
+# 4. Versions
 - Version 0.1 5/22/2018 `Document outline created` 
 
-# 6. Authored by: 
+# 5. Authored by: 
 - Adam Benwood (Product Perspective)
 - Alex Keats (Overview)
 - Andrew Badali (Introduction)
