@@ -105,10 +105,13 @@ References used:
 
 ## 3.1 External Interfaces
 - Bluetooth mesh protocol
-- Send Message Packet
-- Author key
-- Message
-- Timestamp
+- Message Packet
+  - Author token
+    - Key
+    - Username
+  - Message ID (to allow for segmenting messages over multiple packets, will be unique to an author) 
+  - Message
+  - Timestamp
 
 ## 3.2 Performance requirements
 The app will be able to support approximately 6000 users in one chat room and will handle text based data. 
