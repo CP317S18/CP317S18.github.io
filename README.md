@@ -1,4 +1,19 @@
-
+---
+title: Shout! Requirements
+annotater:
+  -
+    name: API
+    tooltip: Application Program Interface
+  -
+    name: GUI
+    tooltip: Graphical User Interface
+  - 
+    name: SRS
+    tooltip: Software Requirement Specification
+  - 
+    name: BLE 
+    tooltip: Bluetooth Low Energy
+---
 - [1. Introduction](#1-introduction)
   * [1.1 Project Summary](#11-project-summary)
   * [1.2 Purpose](#12-purpose)
