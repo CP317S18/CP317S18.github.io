@@ -53,34 +53,31 @@ This document outlines the overall functionality, constraints and specifications
 ## 1.4 Definitions, Acronyms and Abbreviations
 
 ### 1.4.1 Acronyms and Abbreviations
-- API: Application Program Interface - External software
-- GUI: Graphical User Interface
-- SRS: Software Requirement Specification
-- BLE : Bluetooth Low Energy. Wireless personal area network technology intended to reduce power consumption while maintaining a communication range.
+- **API** - Application Program Interface - External software
+- **GUI** - Graphical User Interface
+- **SRS** - Software Requirement Specification
+- **BLE** - Bluetooth Low Energy. Wireless personal area network technology intended to reduce power consumption while maintaining a communication range.
 
 ### 1.4.2 Definitions
-- Blue Mesh Networking: Mesh is a new network topology option available for Bluetooth®Low Energy (LE)
-- Devices: In our application, devices will consist of IOS and Android smartphones
-- Nodes: Devices that are in a mesh network
-- State Binding: Relationship between states where a change in one state can result in a change in another
-- Unprovisioned Devices: Devices that are not in the mesh network
-- Mesh: Network with many to many topology that allows many devices to communicate between many devices within the mesh
-- Point to Point: One device can connect to many other devices in a network, but other devices cannot communicate directly with each other
-- Radius: The distance allowed between two users to connect their devices, dependent on signal strength
-- Chat: The string of messages sent by users into the application
-- User: An individual connected to the chat
+- **Blue Mesh Networking** - Mesh is a new network topology option available for Bluetooth®Low Energy (LE)
+- **Devices** - In our application, devices will consist of IOS and Android smartphones
+- **Nodes** - Devices that are in a mesh network
+- **Mesh** - Network with many to many topology that allows many devices to communicate between many devices within the mesh
+- **Radius** - The distance allowed between two users to connect their devices, dependent on signal strength
+- **Chat** - String of messages sent by users into the application
+- **User** - An individual connected to the chat
 
 ## 1.5 References
 - [BLE](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy)
 - [Bluetooth Blue Mesh Networking](https://www.bluetooth.com/bluetooth-technology/topology-options/le-mesh/mesh-tech)
 
-This SRS document is based on IEEE Std 830-1998.
+This SRS document is based on [IEEE Std 830-1998](https://bohr.wlu.ca/cp317/notes/IEEE_830.pdf).
 				
 
 # 2. Overall description
 						
 ## 2.1 Product perspective 
-_Shout!_ Is based on BLE mesh architecture. Major components include the networking protocol utilizing Core Bluetooth module and Androids Bluetooth API. IOS and Android frontend apps enabling chat serves as the other component. 
+_Shout!_ Is based on BLE mesh architecture. Major components include the networking protocol utilizing Core Bluetooth module and Androids Bluetooth [API](#141-acronyms-and-abbreviations). IOS and Android frontend apps enabling chat serves as the other component. 
 
 ### 2.1.2 Sample GUI - iOS
 
@@ -99,7 +96,7 @@ The intended audience of _Shout!_ are users that seek to network with other user
 
 ## 2.4 Constraints
 
-_Shout!_ is based on the bluetooth mesh network and is restricted by the specifications of the protocol. Devices must be compatible with Bluetooth Low Energy (BLE) in order to receive and send messages. The application will be available to download on iOS and Android platforms. Therefore connectivity between the two operating system may be subjected to certain limitations. The interface of the application must also compile with Apple’s Human Interface Guidelines. 
+_Shout!_ is based on the bluetooth mesh network and is restricted by the specifications of the protocol. Devices must be compatible with Bluetooth Low Energy (BLE) in order to receive and send messages. The application will be available to download on iOS and Android platforms. Therefore connectivity between the two operating system may be subjected to certain limitations. The interface of the application must also compile with [Apple’s Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/). 
 
 The project includes development constraints such as time, cost and reliability. As the concept of the bluetooth mesh network is relatively new, there is a possibility that it will take longer to implement than expected. The bluetooth mesh network has not been implemented in the real world enough for its reliability to be known. Additionally, in order to publish the application on the Apple application store, a developer account is necessary. Since there is no funding for this project, this is a cost constraint. 
 		
