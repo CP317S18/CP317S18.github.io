@@ -65,7 +65,7 @@ This document outlines the overall functionality, constraints and specifications
 - **Mesh** - Network with many to many topology that allows many devices to communicate between many devices within the mesh
 - **Radius** - The distance allowed between two users to connect their devices, dependent on signal strength
 - **Chat** - String of messages sent by users into the application
-- **User** - An individual connected to the chat
+- _User_ - An individual connected to the chat
 
 ## 1.5 References
 - [BLE](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy)
