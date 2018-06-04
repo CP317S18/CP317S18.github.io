@@ -89,9 +89,9 @@ _Shout!_ Is based on BLE mesh architecture. Major components include the network
 
 
 ## 2.2 Product functions 
-Users of _Shout!_ have the ability to chat with others supported through the bluetooth mesh implemented in the application. Users are limited to sending and receiving messages within the range of the mesh to others. If the user disconnects from their mesh, they can reconnect but will not receive the messages that they missed. When users launch the app, they create a temporary username that will be used to communicate with other people. Users can view the number of people in the chat and the distance of users. 
+Users of _Shout!_ have the ability to chat with others supported through the bluetooth mesh implemented in the application. Users are limited to sending and receiving messages within the range of the mesh to others. If the user disconnects from their mesh, they can reconnect but will not receive the messages that they missed. When users launch the app, they create a temporary username that will be used to communicate with other people. Users can view the number of people in the chat and the distance of users. In addition, _Shout!_ will implement a chat cool down feature to prevent message spamming, where a user can only send a message once every few seconds.
 
-<img align="right" width="250" height="250" src="http://cp317s18.github.io/diagram2.png">
+<img align="right" width="250" height="300" src="http://cp317s18.github.io/diagram2.png">
 
 ## 2.3 User characteristics
 
