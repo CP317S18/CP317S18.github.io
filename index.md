@@ -53,18 +53,18 @@ This document outlines the overall functionality, constraints and specifications
 ## 1.4 Definitions, Acronyms and Abbreviations
 
 ### 1.4.1 Acronyms and Abbreviations
-- _API_ - Application Program Interface - External software
-- _GUI_ - Graphical User Interface
-- _SRS_ - Software Requirement Specification
-- _BLE_ - Bluetooth Low Energy. Wireless personal area network technology intended to reduce power consumption while maintaining a communication range.
+- API - Application Program Interface - External software
+- GUI - Graphical User Interface
+- SRS - Software Requirement Specification
+- BLE - Bluetooth Low Energy. Wireless personal area network technology intended to reduce power consumption while maintaining a communication range.
 
 ### 1.4.2 Definitions
-- _Blue Mesh Networking_ - Mesh is a new network topology option available for Bluetooth®Low Energy (LE)
-- _Devices_ - In our application, devices will consist of IOS and Android smartphones
-- _Nodes_ - Devices that are in a mesh network
-- _Mesh_ - Network with many to many topology that allows many devices to communicate between many devices within the mesh
-- _Radius_ - The distance allowed between two users to connect their devices, dependent on signal strength
-- _Chat_ - String of messages sent by users into the application
+- Blue Mesh Networking - Mesh is a new network topology option available for Bluetooth®Low Energy (LE)
+- Devices - In our application, devices will consist of IOS and Android smartphones
+- Nodes - Devices that are in a mesh network
+- Mesh - Network with many to many topology that allows many devices to communicate between many devices within the mesh
+- Radius - The distance allowed between two users to connect their devices, dependent on signal strength
+- Chat - String of messages sent by users into the application
 
 ## 1.5 References
 - [BLE](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy)
