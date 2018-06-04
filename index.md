@@ -91,7 +91,7 @@ _Shout!_ Is based on BLE mesh architecture. Major components include the network
 ## 2.2 Product functions 
 Users of _Shout!_ have the ability to chat with others supported through the bluetooth mesh implemented in the application. Users are limited to sending and receiving messages within the range of the mesh to others. If the user disconnects from their mesh, they can reconnect but will not receive the messages that they missed. When users launch the app, they create a temporary username that will be used to communicate with other people. Users can view the number of people in the chat and the distance of users. 
 
-<img align="right" width="250" height="250" src="http://cp317s18.github.io/diagram.png">
+<img align="right" width="250" height="250" src="http://cp317s18.github.io/diagram2.png">
 
 ## 2.3 User characteristics
 
@@ -150,7 +150,7 @@ Due to the technical architecture of _Shout!_ being based on BLE, messages on iO
 - Version 0.1 5/22/2018 `Document outline created` 
 
 # 5. Authored by: 
-***- Alex Keats*** 
+- Alex Keats
 - Adam Benwood 
 - Andrew Badali 
 - Benjamin Segall 
