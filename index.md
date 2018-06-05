@@ -135,12 +135,12 @@ _Shout!_ will have many security features:
 - Check data integrity for communication
 	- Data packets containing chats will be encrypted going through nodes
 	- The data packets will have text information and other details for logging messages
-	- Packets will be loged on individual devices once they are received
+	- Packets will be logged on individual devices once they are received
 	- Packets will be validated from logs on individual devices to be used to certify uncorrupted transmission
 - Communications securities to prevent users from hacking into other users [devices](#142-definitions)
 	- Application will not have access to files on devices
 	- Application will only be operating with data packets moving in the network of active nodes
-	- Connected devices will be annoymous within the chat but each device will have unique identification
+	- Connected devices will be anonymous within the chat but each device will have unique identification
 
 ## 3.4 Portability
 _Shout!_'s  capabilities include cross platform communication. The platforms which _Shout!_  will operate on include Android and IOS, meaning _Shout!_  will be on the Apple App Store and Google Play Store. There will not be a personal computer (PC here onwards) version of _Shout!_  because creating a mobile application will take majority of the resources and so at the moment a PC version is infeasible.
