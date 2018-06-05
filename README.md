@@ -32,7 +32,7 @@ This document will cover all of the requirements needed for _Shout!_ and will de
 The intended audience for this document will be the client (David Brown) and the project team. They will use this document to be reminded of the requirements of the project. The document will also be used as the basis for the project.
 
 ## 1.3 Scope
-This document outlines the overall functionality, constraints and specifications of _Shout!_ an application available on multiple platforms intended for individuals within a certain radius to be able to message one another over a bluetooth low energy (BLE) mesh. _Shout!_ aims to bring individuals together by facilitating anonymous conversations regardless of phone type and internet access.
+This document outlines the overall functionality, constraints and specifications of _Shout!_ an application available on multiple platforms intended for individuals within a certain radius to be able to message one another over a bluetooth low energy (BLE) mesh. _Shout!_ aims to facilitate anonymous conversations with those nearby regardless of phone type and internet access.
 
 ## 1.4 Definitions, Acronyms and Abbreviations
 
