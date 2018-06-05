@@ -134,7 +134,7 @@ Due to the technical architecture of _Shout!_ being based on BLE, messages on iO
 - Version 0.1 5/22/2018 `Document outline created` 
 
 # 5. Authored by: 
-***- Alex Keats*** 
+- Alex Keats 
 - Adam Benwood 
 - Andrew Badali 
 - Benjamin Segall 
