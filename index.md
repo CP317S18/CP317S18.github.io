@@ -63,6 +63,7 @@ This document outlines the overall functionality, constraints and specifications
 - Devices - In our application, devices will consist of IOS and Android smartphones
 - Nodes - Devices that are in a mesh network
 - Mesh - Network with many to many topology that allows many devices to communicate between many devices within the mesh
+- Packets - Units of data moving through the mesh, containing information about the device identification, message, time and other data used for logs
 - Radius - The distance allowed between two users to connect their devices, dependent on signal strength
 - Chat - String of messages sent by users into the application
 
@@ -133,14 +134,14 @@ _Shout!_ will have many security features:
 - Keep track of logs for user message history of current session
 - Enabling communication between distant users if closer links [(nodes)](#142-definitions) create pathway
 - Check data integrity for communication
-	- Data packets containing chats will be encrypted going through nodes
-	- The data packets will have text information and other details for logging messages
-	- Packets will be logged on individual devices once they are received
-	- Packets will be validated from logs on individual devices to be used to certify uncorrupted transmission
+	- Data [packets](#142-definitions) containing chats will be encrypted going through [nodes](#142-definitions)
+	- The data [packets](#142-definitions) will have text information and other details for logging messages
+	- [Packets](#142-definitions) will be logged on users [devices](#142-definitions) once they are received
+	- [Packets](#142-definitions) will be validated from logs on users [devices](#142-definitions) to be used to certify uncorrupted transmission
 - Communications securities to prevent users from hacking into other users [devices](#142-definitions)
-	- Application will not have access to files on devices
-	- Application will only be operating with data packets moving in the network of active nodes
-	- Connected devices will be anonymous within the chat but each device will have unique identification
+	- Application will not have access to files on [devices](#142-definitions)
+	- Application will only be operating with data [packets](#142-definitions) moving in the network of active nodes
+	- Connected [devices](#142-definitions) will be anonymous within the chat but each device will have unique identification
 
 ## 3.4 Portability
 _Shout!_'s  capabilities include cross platform communication. The platforms which _Shout!_  will operate on include Android and IOS, meaning _Shout!_  will be on the Apple App Store and Google Play Store. There will not be a personal computer (PC here onwards) version of _Shout!_  because creating a mobile application will take majority of the resources and so at the moment a PC version is infeasible.
