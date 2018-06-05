@@ -91,7 +91,7 @@ Users of _Shout!_ have the ability to [chat](#142-definitions) with others suppo
 
 ## 2.3 User characteristics
 
-The intended audience of _Shout!_ are users that seek to network with other users within their environment. _Shout!_ is accessible on iOS and Android. Users must have the technical expertise to use the basic functions of the [devices](#142-definitions) on which _Shout!_ is installed. Experience using a messaging application will assist in the amount of time required to become familiar with the application. The user interface is intended to be intuitive such that there will be a short learning curve.
+The intended audience of _Shout!_ are users that seek to network with other users within their environment. _Shout!_ is accessible on iOS and Android. Users must have the technical expertise to use the basic functions of the [devices](#142-definitions) on which _Shout!_ is installed. Previous experiences of using a messaging application such as [Facebook Messenger](https://itunes.apple.com/ca/app/messenger/id454638411?mt=8) will assist in the amount of time required to become familiar with the application. The user interface is intended to be simple and intuitive to allow users to operate and navigate the application with minimal resistance and confusion. A short explanation on the functionalities will be provided upon the first launch of the application to guide the users.
 
 ## 2.4 Constraints
 
