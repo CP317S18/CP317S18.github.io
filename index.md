@@ -82,7 +82,7 @@ _Shout!_ Is based on [BLE](#15-references) [mesh](#142-definitions) architecture
 ### 2.1.2 Sample [GUI](#141-acronyms-and-abbreviations) - iOS
 
 <img width="300" height="533" src="cp317s18.github.io/homepage.png" align="left" hspace="70" />
-<img width="300" height="533" src="cp317s18.github.io/chat ui.png" hspace="40" />
+<img width="300" height="533" src="cp317s18.github.io/chat ui 2.png" hspace="40" />
 
 
 ## 2.2 Product functions 
