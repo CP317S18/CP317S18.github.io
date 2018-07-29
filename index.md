@@ -163,6 +163,7 @@ The specifics of the GUI and the languages used for iOS and Android are in the D
 
 # 5. Versions
 - Version 0.1 5/22/2018 `Document outline created` 
+- Version 0.2 6/29/2018 `Further information added` 
 
 # 6. Authored by: 
 - Alex Keats
