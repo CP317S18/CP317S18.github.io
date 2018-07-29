@@ -35,8 +35,11 @@ annotater:
   * [3.3 Security](#33-security)
   * [3.4 Portability](#34-portability)
   * [3.5 Data Storage](#35-data-storage)
-- [4. Versions](#5-versions)
-- [5. Authors](#6-authored-by)
+- [4. Interface Requirements](#4-interface-requirements)
+  * [4.1 Description](#41-description)
+  * [4.2 Specifics](#42-specifics)
+- [5. Versions](#5-versions)
+- [6. Authors](#6-authored-by)
 
 # 1. Introduction
 ## 1.1 Project Summary
@@ -144,16 +147,24 @@ _Shout!_ will have many security features:
 	- Connected devices will be anonymous within the chat but each device will have unique identification
 
 ## 3.4 Portability
-_Shout!_'s  capabilities include cross platform communication. The platforms which _Shout!_  will operate on include Android and IOS, meaning _Shout!_  will be on the Apple App Store and Google Play Store. There will not be a personal computer (PC here onwards) version of _Shout!_  because creating a mobile application will take majority of the resources and so at the moment a PC version is infeasible.
+_Shout!_'s  capabilities include cross platform communication. The platforms which _Shout!_  will operate on include Android and iOS, meaning _Shout!_  will be on the Apple App Store and Google Play Store. There will not be a personal computer (PC here onwards) version of _Shout!_  because creating a mobile application will take majority of the resources and so at the moment a PC version is infeasible.
 
 ## 3.5 Data Storage
 Due to the technical architecture of _Shout!_ being based on [BLE](#15-references), messages on iOS will be stored using the `Core Data Module` and on Android in the `Nexus Data Module` eliminating our requirement for databases and ensuring data persistence.	
 
+# 4. Interface Requirements
 
-# 4. Versions
+## 4.1 Description
+Due to the differing design restrictions and guidelines, the android and iOS versions will not be able to have the exact same interface. 
+To get around some of these difficulties, the prototypes will be created using a platform called Figma which can be used to merge the designs to be as similar as possible. 
+
+## 4.2 Specifics 
+The specifics of the GUI and the languages used for iOS and Android are in the Design Specs Document
+
+# 5. Versions
 - Version 0.1 5/22/2018 `Document outline created` 
 
-# 5. Authored by: 
+# 6. Authored by: 
 - Alex Keats
 - Adam Benwood 
 - Andrew Badali 
