@@ -126,10 +126,6 @@ _Shout!_ will have many security features:
 ## 3.4 Portability
 _Shout!_'s  capabilities include cross platform communication. The platforms which _Shout!_  will operate on include Android and IOS, meaning _Shout!_  will be on the Apple App Store and Google Play Store. There will not be a personal computer (PC here onwards) version of _Shout!_  because creating a mobile application will take majority of the resources and so at the moment a PC version is infeasible.
 
-## 3.5 Data Storage
-Due to the technical architecture of _Shout!_ being based on BLE, messages on iOS will be stored using the `Core Data Module` and on Android in the `Nexus Data Module` eliminating our requirement for databases and ensuring data persistence.	
-
-
 # 4. Versions
 - Version 0.1 5/22/2018 `Document outline created` 
 - Version 0.2 8/8/2018 `all SQA from 5/24/2018 issues resolved or dismissed`
