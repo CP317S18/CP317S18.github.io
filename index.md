@@ -25,6 +25,7 @@ annotater:
 - [2. Overall description](#2-overall-description)
   * [2.1 Product perspective](#21-product-perspective)
     + [2.1.2 Sample GUI - iOS](#212-sample-gui---ios)
+    + [2.1.3 Sample GUI - Android](#213-sample-gui---android)
   * [2.2 Product functions](#22-product-functions)
   * [2.3 User characteristics](#23-user-characteristics)
   * [2.4 Constraints](#24-constraints)
@@ -82,11 +83,12 @@ This [SRS](#141-acronyms-and-abbreviations) document is based on [IEEE Std 830-1
 ## 2.1 Product perspective 
 _Shout!_ Is based on [BLE](#15-references) [mesh](#142-definitions) architecture. Major components include the networking protocol utilizing Core Bluetooth module and Androids Bluetooth [API](#141-acronyms-and-abbreviations). IOS and Android frontend apps enabling [chat](#142-definitions) serves as the other component. 
 
-### 2.1.2 Sample [GUI](#141-acronyms-and-abbreviations) - iOS
+### 2.1.2 Sample [GUI](#212-sample-gui---ios) - iOS
 
 <img width="300" height="533" src="cp317s18.github.io/homepage.png" align="left" hspace="70" />
 <img width="300" height="533" src="cp317s18.github.io/chat ui 2.png" hspace="40" />
 
+### 2.1.3 Sample [GUI](#213-sample-gui---android) - Android
 
 ## 2.2 Product functions 
 Users of _Shout!_ have the ability to [chat](#142-definitions) with others supported through the bluetooth [mesh](#142-definitions) implemented in the application. Users are limited to sending and receiving messages within the range of the mesh to others. If the user disconnects from their mesh, they can reconnect but will not receive the messages that they missed. When users launch the app, they create a temporary username that will be used to communicate with other people. Users can view the number of people in the chat and the distance of users. In addition, _Shout!_ will implement a chat cool down feature to prevent message spamming, where a user can only send a message once every few seconds.
