@@ -132,6 +132,7 @@ Due to the technical architecture of _Shout!_ being based on BLE, messages on iO
 
 # 4. Versions
 - Version 0.1 5/22/2018 `Document outline created` 
+- Version 0.2 8/8/2018 `all SQA from 5/24/2018 issues resolved or dismissed`
 
 # 5. Authored by: 
 - Alex Keats 
