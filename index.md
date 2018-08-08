@@ -149,10 +149,7 @@ _Shout!_ will have many security features:
 	- Connected devices will be anonymous within the chat but each device will have unique identification
 
 ## 3.4 Portability
-_Shout!_'s  capabilities include cross platform communication. The platforms which _Shout!_  will operate on include Android and iOS, meaning _Shout!_  will be on the Apple App Store and Google Play Store. There will not be a personal computer (PC here onwards) version of _Shout!_  because creating a mobile application will take majority of the resources and so at the moment a PC version is infeasible.
-
-## 3.5 Data Storage
-Due to the technical architecture of _Shout!_ being based on [BLE](#15-references), messages on iOS will be stored using the `Core Data Module` and on Android in the `Nexus Data Module` eliminating our requirement for databases and ensuring data persistence.	
+_Shout!_'s  capabilities include cross platform communication. The platforms which _Shout!_  will operate on include Android and iOS, meaning _Shout!_  will be on the Apple App Store and Google Play Store. There will not be a personal computer (PC here onwards) version of _Shout!_  because creating a mobile application will take majority of the resources and so at the moment a PC version is infeasible.	
 
 # 4. Interface Requirements
 
