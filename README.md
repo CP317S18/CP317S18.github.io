@@ -1,7 +1,9 @@
 - [1. Introduction](#1-introduction)
   * [1.1 Project Summary](#11-project-summary)
   * [1.2 Purpose](#12-purpose)
-  * [1.3 Scope](#13-scope)
+  * [1.3 Scope and Business Model](#13-scope-and-business-model)
+    + [1.3.1 Scope](#131-scope)
+    + [1.3.2 Business Model](#132-business-model)
   * [1.4 Definitions, Acronyms and Abbreviations](#14-definitions-acronyms-and-abbreviations)
     + [1.4.1 Acronyms and Abbreviations](#141-acronyms-and-abbreviations)
     + [1.4.2 Definitions](#142-definitions)
@@ -31,8 +33,13 @@ This document will cover all of the requirements needed for _Shout!_ and will de
 
 The intended audience for this document will be the client (David Brown) and the project team. They will use this document to be reminded of the requirements of the project. The document will also be used as the basis for the project.
 
-## 1.3 Scope
+## 1.3 Scope and Business Model
+
+### 1.3.1 Scope
 This document outlines the overall functionality, constraints and specifications of _Shout!_ an application available on multiple platforms intended for individuals within a certain radius to be able to message one another over a bluetooth low energy (BLE) mesh. _Shout!_ aims to facilitate anonymous conversations with those nearby regardless of phone type and internet access.
+
+### 1.3.2 Business Model
+_Shout!_ Will be available as a free to use application. There will be no cost for users downloading the application and there will be no advertisements in the application. The reason for allowing users to use the application for free is to gain exposure. Users will have ease and enjoyment accessing the application and communicating with others. This will create a network effect which will motivate others to download. Once enough exposure is reached, further research and development will be completed to potentially introduce some form of monetization.
 
 ## 1.4 Definitions, Acronyms and Abbreviations
 
