@@ -71,7 +71,7 @@ This SRS document is based on IEEE Std 830-1998.
 # 2. Overall description
 						
 ## 2.1 Product perspective 
-_Shout!_ Is based on BLE mesh architecture. Major components include the networking protocol utilizing Core Bluetooth module and Android's Bluetooth API. IOS and Android frontend apps enabling chat serves as the other component. 
+_Shout!_ Is based on BLE mesh architecture. Major components include the networking protocol utilizing Core Bluetooth module and Android's Bluetooth API. IOS and Android frontend applications enabling chat serves as the other component. 
 
 ### 2.1.2 Sample GUI - iOS
 
@@ -84,7 +84,7 @@ Users of _Shout!_ have the ability to chat with others supported through the blu
 
 ## 2.3 User characteristics
 
-The intended audience of _Shout!_ are users that seek to network with other users within their environment. _Shout!_ is accessible on iOS and Android. Users must have the technical expertise to use the basic functions of the devices on which _Shout!_ is installed. Experience using a messaging application will assist in the amount of time required to become familiar with the application. The user interface is intended to be intuitive such that there will be a short learning curve.
+The intended audience of _Shout!_ are users that seek to network with other users within their environment. The domain of the application is being able to have daily communications with other users through a smartphone applications. The application can be installed on iOS and Android devices. Users must have the technical expertise to use the basic functions of the devices on which _Shout!_ is installed. Experience using a messaging application will assist in the amount of time required to become familiar with the application. The user interface is intended to be intuitive such that there will be a short learning curve.
 
 ## 2.4 Constraints
 
@@ -127,6 +127,8 @@ _Shout!_ will have many security features:
 - Enabling communication between distant users if closer links (nodes) create pathway
 - Check data integrity for communication
 - Communications securities to prevent users from hacking into other users devices
+
+A Privacy Policy and Terms of Service will be used to communicate to the users how information gathered by the application will be used. 
 
 ## 3.4 Portability
 _Shout!_'s  capabilities include cross platform communication. The platforms which _Shout!_  will operate on include Android and iOS, meaning _Shout!_  will be on the Apple App Store and Google Play Store. There will not be a personal computer (PC here onwards) version of _Shout!_  because creating a mobile application will take majority of the resources and so at the moment a PC version is infeasible.
