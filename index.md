@@ -114,7 +114,7 @@ The project includes development constraints such as time, cost and reliability.
 		
 ## 2.5 Assumptions and dependencies
 
-It is assumed that all of the users [devices](#142-definitions) are compatible with Bluetooth Low Energy [(BLE)](#15-references) with core specification version 4.0 and higher. This includes all iPhones 4s and higher, iPads generation 3 and higher, and any android devices version 4.3 and higher.
+It is assumed that all of the users [devices](#142-definitions) are compatible with Bluetooth Low Energy [(BLE)](#15-references) of core specification version 4.0 and higher. This includes all iPhones 5 and higher, iPads generation 3 and higher, and any android devices version 4.3 and higher.
 
 The application will only function within the limitations of the device’s own capabilities. It is assumed that all users using _Shout!_ need to be within at least 200 feet of at least one other person in order to engage in conversation.
 
