@@ -46,7 +46,7 @@ annotater:
 
 # 1. Introduction
 ## 1.1 Project Summary
-_Shout!_  is a bluetooth low energy [(BLE)](#15-references) mesh-based messaging application that is supported on Android and iOS. It allows users to talk to other users within a single messaging room as long as they are all connected to the same bluetooth [mesh](#142-definitions).
+_Shout!_  is a Bluetooth Low Energy [(BLE)](#15-references) mesh-based messaging application that is supported on Android and iOS. It allows users to talk to other users within a single messaging room as long as they are all connected to the same bluetooth [mesh](#142-definitions).
 
 ## 1.2 Purpose
 This document will cover all of the requirements needed for _Shout!_ and will describe all of its features and how they work.
@@ -56,10 +56,10 @@ The intended audience for this document will be the client (David Brown) and the
 ## 1.3 Scope and Business Model
 
 ### 1.3.1 Scope
-This document outlines the overall functionality, constraints and specifications of _Shout!_ an application available on multiple platforms intended for individuals within a certain radius to be able to message one another over a bluetooth low energy (BLE) mesh. _Shout!_ aims to facilitate anonymous conversations with those nearby regardless of phone type and internet access.
+This document outlines the overall functionality, constraints and specifications of _Shout!_ , an application available on multiple platforms intended for individuals within a certain radius to be able to message one another over a Bluetooth Low Energy (BLE) mesh. _Shout!_ aims to facilitate anonymous conversations with those nearby regardless of phone type and internet access.
 
 ### 1.3.2 Business Model
-_Shout!_ Will be available as a free to use application. There will be no cost for users downloading the application and there will be no advertisements in the application. The reason for allowing users to use the application for free is to gain exposure. Users will have ease and enjoyment accessing the application and communicating with others. This will create a network effect which will motivate others to download. Once enough exposure is reached, further research and development will be completed to potentially introduce some form of monetization.
+_Shout!_ will be available as a free to use application. There will be no cost for users downloading the application and there will be no advertisements in the application. The reason for allowing users to use the application for free is to gain exposure. Users will have ease and enjoyment accessing the application and communicating with others. This will create a network effect which will motivate others to download. Once enough exposure is reached, further research and development will be completed to potentially introduce some form of monetization.
 
 ## 1.4 Definitions, Acronyms and Abbreviations
 
@@ -88,7 +88,7 @@ This [SRS](#141-acronyms-and-abbreviations) document is based on [IEEE Std 830-1
 # 2. Overall description
 						
 ## 2.1 Product perspective 
-_Shout!_ Is based on [BLE](#15-references) [mesh](#142-definitions) architecture. Major components include the networking protocol utilizing Core Bluetooth module and Androids Bluetooth [API](#141-acronyms-and-abbreviations). IOS and Android frontend apps enabling [chat](#142-definitions) serves as the other component. 
+_Shout!_ Is based on [BLE](#15-references) [mesh](#142-definitions) architecture. Major components include the networking protocol utilizing Core Bluetooth module and Android's Bluetooth [API](#141-acronyms-and-abbreviations). IOS and Android frontend apps enabling [chat](#142-definitions) serves as the other component. 
 
 ### 2.1.2 Sample [GUI](#212-sample-gui---ios) - iOS
 
@@ -165,7 +165,7 @@ Due to the differing design restrictions and guidelines, the android and iOS ver
 To get around some of these difficulties, the prototypes will be created using a platform called Figma which can be used to merge the designs to be as similar as possible. 
 
 ## 4.2 Specifics 
-The specifics of the GUI and the languages used for iOS and Android are in the Design Specs Document
+The specifics of the GUI and the languages used for iOS and Android are in the Design Specs Document.
 
 # 5. Versions
 - Version 0.1 5/22/2018 `Document outline created` 
