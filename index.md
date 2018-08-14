@@ -92,8 +92,8 @@ _Shout!_ Is based on [BLE](#15-references) [mesh](#142-definitions) architecture
 
 ### 2.1.2 Sample [GUI](#212-sample-gui---ios) - iOS
 
-<img width="300" height="533" src="cp317s18.github.io/homepage.png" align="left" hspace="70" />
-<img width="300" height="533" src="cp317s18.github.io/chat ui 2.png" hspace="40" />
+<img width="300" height="533" src="https://ibb.co/fbHKD9" align="left" hspace="70" />
+<img width="300" height="533" src="https://ibb.co/mpzufp" hspace="40" />
 
 ### 2.1.3 Sample [GUI](#213-sample-gui---android) - Android
 
