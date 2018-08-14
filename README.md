@@ -39,7 +39,7 @@ The intended audience for this document will be the client (David Brown) and the
 This document outlines the overall functionality, constraints and specifications of _Shout!_ an application available on multiple platforms intended for individuals within a certain radius to be able to message one another over a bluetooth low energy (BLE) mesh. _Shout!_ aims to facilitate anonymous conversations with those nearby regardless of phone type and internet access.
 
 ### 1.3.2 Business Model
-_Shout!_ Will be available as a free to use application. There will be no cost for users downloading the application and there will be no advertisements in the application. The reason for allowing users to use the application for free is to gain exposure. Users will have ease and enjoyment accessing the application and communicating with others. This will create a network effect which will motivate others to download. Once enough exposure is reached, further research and development will be completed to potentially introduce some form of monetization.
+_Shout!_ will be available as a free to use application. There will be no cost for users downloading the application and there will be no advertisements in the application. The reason for allowing users to use the application for free is to gain exposure. Users will have ease and enjoyment accessing the application and communicating with others. This will create a network effect which will motivate others to download. Once enough exposure is reached, further research and development will be completed to potentially introduce some form of monetization, such as advertisements or sponsors.
 
 ## 1.4 Definitions, Acronyms and Abbreviations
 
@@ -71,7 +71,7 @@ This SRS document is based on IEEE Std 830-1998.
 # 2. Overall description
 						
 ## 2.1 Product perspective 
-_Shout!_ Is based on BLE mesh architecture. Major components include the networking protocol utilizing Core Bluetooth module and Androids Bluetooth API. IOS and Android frontend apps enabling chat serves as the other component. 
+_Shout!_ Is based on BLE mesh architecture. Major components include the networking protocol utilizing Core Bluetooth module and Android's Bluetooth API. IOS and Android frontend apps enabling chat serves as the other component. 
 
 ### 2.1.2 Sample GUI - iOS
 
@@ -80,7 +80,9 @@ _Shout!_ Is based on BLE mesh architecture. Major components include the network
 
 
 ## 2.2 Product functions 
-Users of _Shout!_ have the ability to chat with others supported through the bluetooth mesh implemented in the application. Users are limited to sending and receiving messages within the range of the mesh to others. If the user disconnects from their mesh, they can reconnect but will not receive the messages that they missed. When users launch the app, they create a temporary username that will be used to communicate with other people. Users can view the number of people in the chat and the distance of users. 
+Users of _Shout!_ have the ability to chat with others supported through the bluetooth mesh implemented in the application. Users are limited to sending and receiving messages within the range of the mesh to others. If the user disconnects from their mesh, they can reconnect and reload a few messages they may have missed. When users launch the app, they create a temporary username that will be used to communicate with other people. Users can also view the number of people in the chat.
+
+Represented in the UML diagram below, _Shout!_ uses two actors, the user of the application and the people behind the app (us). 
 
 <img align="right" width="250" height="250" src="http://cp317s18.github.io/diagram.png">
 
@@ -120,7 +122,7 @@ References used:
   - Timestamp
 
 ## 3.2 Performance requirements
-The app will be able to support approximately 6000 users in one chat room and will handle text based data. 
+The app will be able to support approximately 6,000 users in one chat room and will handle text based data. 
 Most of the communication will be done within few seconds of a message being sent from a user but, with larger chat rooms, the time for each individual users to receive the message will increase.
 
 ## 3.3 Security
@@ -131,7 +133,7 @@ _Shout!_ will have many security features:
 - Communications securities to prevent users from hacking into other users devices
 
 ## 3.4 Portability
-_Shout!_'s  capabilities include cross platform communication. The platforms which _Shout!_  will operate on include Android and IOS, meaning _Shout!_  will be on the Apple App Store and Google Play Store. There will not be a personal computer (PC here onwards) version of _Shout!_  because creating a mobile application will take majority of the resources and so at the moment a PC version is infeasible.
+_Shout!_'s  capabilities include cross platform communication. The platforms which _Shout!_  will operate on include Android and iOS, meaning _Shout!_  will be on the Apple App Store and Google Play Store. There will not be a personal computer (PC here onwards) version of _Shout!_  because creating a mobile application will take majority of the resources and so at the moment a PC version is infeasible.
 
 # 4. Versions
 - Version 0.1 5/22/2018 `Document outline created` 
